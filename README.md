@@ -1,4 +1,4 @@
-This code is from a previous git branch, not the actual, current project. I was not permitted to provide that code for propreitary reason. Therefore, some features are not complete. However, it is in good enough condition to showcase my coding style, as well as present the code running in the DOM.
+## This code is from a previous git branch, not the actual, current project. I was not permitted to provide that code for propreitary reason. Therefore, some features are not complete. However, it is in good enough condition to showcase my coding style, as well as present the code running in the DOM.
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
